@@ -1,6 +1,5 @@
 <resources>
     <string name="app_name">BerlinStudentGuide</string>
-    <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="city_registration">
         As soon as you find an apartment the owner will provide you with a document to register yourself to the address you are staying at.
