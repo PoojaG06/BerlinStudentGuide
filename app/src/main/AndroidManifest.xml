@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="bsg.berlinstudentguide">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/bsg_logo"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/bsg_logo"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.BerlinStudentGuide">
+        <activity android:name=".VisaExtension"></activity>
+        <activity android:name=".TravelPass" />
+        <activity android:name=".LanguageCourse" />
+        <activity android:name=".InsuranceOptions" />
+        <activity android:name=".HealthInsurance" />
+        <activity android:name=".FirstActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".CityRegistration" />
+        <activity android:name=".StudentApartment" />
+        <activity android:name=".PrivateApartment" />
+        <activity android:name=".BlockAccount" />
+        <activity android:name=".Apartment" />
+        <activity android:name=".MainActivity" />
+    </application>
+
+</manifest>

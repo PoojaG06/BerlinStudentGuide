@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.BerlinStudentGuide" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#40A7B5</item>
+        <item name="colorPrimaryVariant">#00BCD4</item>
+        <item name="colorOnPrimary">#00D4D4</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#7C1E8C</item>
+        <item name="colorSecondaryVariant">#834FDF</item>
+        <item name="colorOnSecondary">#C161D1</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>

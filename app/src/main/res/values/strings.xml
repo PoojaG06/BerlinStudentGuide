@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">BerlinStudentGuide</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="city_registration">
+        As soon as you find an apartment the owner will provide you with a document to register yourself to the address you are staying at.
+        City Registration is Legal Proof that you are living at a given address.
+        This document is required further for any documentation e.g. Block Account in Bank, Student Pass, Job, etc.
+        This document is called <b>Anmeldungsbescheinigung</b> in German.
+       </string>
+    <string name="city_button"><b>Press the button below to find a registration office near to you and make an appointment at the Registration Office (Bürgeramt).</b></string>
+    <string name="welcome_to_city_registration">Welcome to City Registration</string>
+    <string name="find_registration_office">Find Registration Office</string>
+    <string name="tips">TIPS</string>
+    <string name="travel_pass">If Travel Pass is not provided by your university then you can get it done yourself.
+        You can visit any nearby BVG or VBB office for getting a yearly student pass done.</string>
+    <string name="pass_detail"><u>Documents required are</u>:</string>
+    <string name="pass_button"><b>This procedure can also be done online from the BVG link below.</b></string>
+    <string name="block_account">A Block account is an amount that needs to be blocked while arriving on a student visa in Germany. It is for covering your 1-year living expenses. It is one of the visa application requirements.
+        You can find further details about this while preparing for the visa application.</string>
+    <string name="block_account2">Block account is processed through the bank after landing here in Germany. It will take mostly a week time or so. You need to visit the nearest Deutsch bank branch with documents like passport address proof and university matriculation letter. Meet at the information counter and ask for the procedure. They open an account for you and then the money has to be transferred.
+        The procedure takes about a week or two and can be done only after you have your address proof done i.e City Registration.</string>
+    <string name="insurance_info">Health insurance is one of the documents which is required for any official work in Germany therefore everyone has to get insurance done.</string>
+    <string name="insurance_info2">There are two types of Insurance private and public. Public insurance is much preferred once and covers almost all the basic health problems with good service.</string>
+    <string name="insurance_info3">Private insurance is a cheaper one but also the facilities provided are less.</string>
+    <string name="welcome_to_health_insurance">Welcome to Health Insurance</string>
+    <string name="public_insurance_option">public insurance options</string>
+    <string name="apartment_info">Finding a place to stay is the first task while shifting to any new place. Some universities provide accommodation facilities in student apartments but this option is not available for all universities.
+        Therefore before beginning your search first consult your university about it.</string>
+    <string name="apartment_info2"><b>Click below to find student accommodations that are open to some universities only.</b></string>
+    <string name="apartment_info3"><b>If your university does not provide any such option then you will have to find private accommodation of your own.</b></string>
+    <string name="apartment_info4"><b>Click below to find out some option for private accommodation.</b></string>
+    <string name="welcome_to_apartment_finder">Welcome to Apartment Finder</string>
+    <string name="student_apartments">Student Apartments</string>
+    <string name="private_apartments">Private Apartments</string>
+    <string name="private_detail">You can find renting options like Studio, 1,2,3 BHK rooms and WG (Shared Apartment) in the following options.</string>
+    <string name="temporary_place">If you are in a hurry and have not found an apartment yet and need some temporary place to stay please check out <b>Hostelworld</b> you can find a place in shared dorms which would be the cheapest option for a temporary stay.</string>
+    <string name="hostel_world">hostel world</string>
+    <string name="language">After all the documentation (City Registration, Block Account, etc.) is done it is a great idea to improve the language skills.
+        It is a job requirement in most of the companies, therefore it is very important to know the language properly.
+        Here are some affordable and good language courses that can be done along with the university lectures with flexible days and timing options.</string>
+    <string name="welcome_to_language_course">Welcome to Language Course</string>
+    <string name="vhs">VHS</string>
+    <string name="deutsch_akademie">Deutsch Akademie</string>
+    <string name="goethe_institut">Goethe Institut</string>
+    <string name="kapitel_zwei">Kapitel Zwei</string>
+    <string name="todo">TODO</string>
+    <string name="welcome_to_visa_extention">Welcome to Visa Extension</string>
+    <string name="extension">Most people receive a visa for 6 months only while coming to Germany and have to extend it further after coming here. The procedure for this is to make an appointment at the visa office (Auslanderbehörder) at least 4 weeks before visa expiry and go for the appointment with all the specified documents and get the visa extended.</string>
+    <string name="extension2"><b>Following is the link for Student visa extension</b></string>
+    <string name="extension3">There are many other types of visa that may be required further. Following is the link to some other types of visa available.</string>
+    <string name="First_Page">I would like to inform you that all the information provided in this app is known by personal experience. These are only some suggestions to help make your early days in Berlin easier.
+        There are many more options available.</string>
+</resources>
